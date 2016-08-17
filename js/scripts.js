@@ -1,6 +1,8 @@
 $(document).ready(function() {
   <!--Backend-->
-
+  var leapYear = function(year) {
+    return false;
+  };
   <!--Frontend-->
   $("form#leap-year").submit(function(event) {
     event.preventDefault();

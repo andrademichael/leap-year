@@ -39,6 +39,6 @@ This file is part of The Leap-Year Detectomatic.
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with leap-year.  If not, see <http://www.gnu.org/licenses/>.
+    along with the Leap-Year Detectomatic.  If not, see <http://www.gnu.org/licenses/>.
 
 Copyright (c) 2016 **_Michael Andrade_**
